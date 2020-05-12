@@ -1,0 +1,82 @@
+[
+  {
+    "match": "Germany Vs Argentina",
+    "winner": "Germany"
+  },
+  {
+    "match": "Spain Vs Netherlands",
+    "winner": "Spain"
+  },
+  {
+    "match": "Italy Vs France",
+    "winner": "Italy"
+  },
+  {
+    "match": "Brazil Vs Germany",
+    "winner": "Brazil"
+  },
+  {
+    "match": "France Vs Brazil",
+    "winner": "France"
+  },
+  {
+    "match": "Brazil Vs Italy",
+    "winner": "Brazil"
+  },
+  {
+    "match": "Germany Vs Argentina",
+    "winner": "Germany"
+  },
+  {
+    "match": "Argentina Vs Germany",
+    "winner": "Argentina"
+  },
+  {
+    "match": "Italy Vs Germany",
+    "winner": "Italy"
+  },
+  {
+    "match": "Argentina Vs Netherlands",
+    "winner": "Argentina"
+  },
+  {
+    "match": "Germany Vs Netherlands",
+    "winner": "Germany"
+  },
+  {
+    "match": "Brazil Vs Italy",
+    "winner": "Brazil"
+  },
+  {
+    "match": "England Vs Germany",
+    "winner": "England"
+  },
+  {
+    "match": "Brazil Vs Ceko",
+    "winner": "Brazil"
+  },
+  {
+    "match": "Brazil Vs Sweden",
+    "winner": "Brazil"
+  },
+  {
+    "match": "Germany Vs Hungary",
+    "winner": "Germany"
+  },
+  {
+    "match": "Brazil Vs Uruguay",
+    "winner": "Brazil"
+  },
+  {
+    "match": "Italy Vs Hungary",
+    "winner": "Italy"
+  },
+  {
+    "match": "Italy Vs Ceko",
+    "winner": "Italy"
+  },
+  {
+    "match": "Uruguay Vs Argentina",
+    "winner": "Uruguay"
+  }
+]

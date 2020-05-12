@@ -1,0 +1,58 @@
+[
+  {
+    "match": "Uruguay Vs Portugal",
+    "winner": "Uruguay"
+  },
+  {
+    "match": "France Vs Argentina",
+    "winner": "France"
+  },
+  {
+    "match": "Brazil Vs Mexico",
+    "winner": "Brazil"
+  },
+  {
+    "match": "Belgium Vs Japan",
+    "winner": "Belgium"
+  },
+  {
+    "match": "Spain Vs Russia",
+    "winner": "Russia"
+  },
+  {
+    "match": "Croatia Vs Denmark",
+    "winner": "Croatia"
+  },
+  {
+    "match": "Sweden Vs Switzerland",
+    "winner": "Sweden"
+  },
+  {
+    "match": "Colombia Vs England",
+    "winner": "England"
+  },
+  {
+    "match": "Uruguay Vs France",
+    "winner": "France"
+  },
+  {
+    "match": "Brazil Vs Belgium",
+    "winner": "Belgium"
+  },
+  {
+    "match": "Russia Vs Croatia",
+    "winner": "Croatia"
+  },
+  {
+    "match": "Sweden Vs England",
+    "winner": "England"
+  },
+  {
+    "match": "France Vs Belgium",
+    "winner": "France"
+  },
+  {
+    "match": "Croatia Vs England",
+    "winner": "Croatia"
+  }
+]
